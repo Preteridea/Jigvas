@@ -1,0 +1,14 @@
+# 防止把开发仓库的源码与内部资产误带入公开发行仓库
+.DS_Store
+*.blend
+*.blend1
+*.swift
+/src/
+/design/
+/tests/
+/website/
+/ji_assets/
+/ji3d/
+/JIGVAS_JI_MVP/
+*.zip
+*.app/
