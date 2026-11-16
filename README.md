@@ -58,7 +58,7 @@ AI layout works out of the box with a trial quota. For long-term use, add your o
 ## Feedback & Support
 
 - **Bugs, feature requests, questions** — post them in **[Issues](https://github.com/Preteridea/jigvas/issues)**.
-- **Anything private** — email **hello@jigvas.com**. Please never post personal details in a public issue.
+- **Anything private** — email **contact@jigvas.com**. Please never post personal details in a public issue.
 - **Reporting a bug?** Include your macOS version, the JIGVAS version (JIGVAS → About JIGVAS) and what you did just before it happened. A screenshot saves a round trip.
 
 > **Note** — This repository hosts the public download and the issue tracker. JIGVAS is distributed as a ready-to-run Mac app.
