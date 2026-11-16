@@ -4,6 +4,8 @@
 
 JIGVAS is a local-first layout canvas for macOS. Drop images, notes and links onto one canvas and AI turns them into a designed page — with five layout styles to switch between and one-click export for wherever you publish. No sign-up, no cloud, no project setup.
 
+![JIGVAS canvas with dropped-in images and posters laid out automatically, style and font options in the sidebar, canvases along the bottom](./assets/jigvas-canvas.jpg)
+
 ## Highlights
 
 - **From scattered to finished in seconds.** JIGVAS reads your materials, matches a style and applies real typographic constraints — grid, hierarchy, spacing and contrast in one pass. Every card stays editable, and your manual placement always wins.
@@ -20,7 +22,7 @@ JIGVAS is a local-first layout canvas for macOS. Drop images, notes and links on
 
 ## Download
 
-- **[Download for Mac (DMG)](downloads/JIGVAS-0.3.3-20261115.dmg)** — recommended, about 2.6 MB
+- **[Download for Mac](downloads/JIGVAS-0.3.3-20261115.dmg)** — recommended, about 2.6 MB
 - **[ZIP archive](https://www.jigvas.com/download)** — unzip and run
 - **[SHA256SUMS.txt](downloads/SHA256SUMS.txt)** — checksums
 - Website: **[www.jigvas.com](https://www.jigvas.com/)**
